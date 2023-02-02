@@ -1,4 +1,4 @@
-package Function;
+package Function.Code;
 
 public class Shadowing {
     static int x = 90; // this will be shadowed at line 8

@@ -1,4 +1,4 @@
-package Function;
+package Function.Code;
 
 public class Scope {
     public static void main(String[] args) {
